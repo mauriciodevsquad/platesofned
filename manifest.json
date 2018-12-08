@@ -1,0 +1,21 @@
+{
+  "short_name": "Ned",
+  "name": "Plates of Ned",
+  "icons": [
+    {
+      "src": "/platesofned/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/platesofned/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/platesofned/index.html",
+  "background_color": "#19AA89",
+  "display": "fullscreen",
+  "scope": "/platesofned/",
+  "theme_color": "#19AA89"
+}
