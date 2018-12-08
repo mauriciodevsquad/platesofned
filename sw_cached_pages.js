@@ -1,12 +1,12 @@
 const cacheName = 'v1';
 
 const cacheAssets = [
-    'index.html',
-    'menu.html',
-    'chapter_1.html',
-    'chapter_2.html',
-    '/css/stylesheet.css',
-    '/js/main.js'
+    '/platesofned/index.html',
+    '/platesofned/menu.html',
+    '/platesofned/chapter_1.html',
+    '/platesofned/chapter_2.html',
+    '/platesofned/css/stylesheet.css',
+    '/platesofned/js/main.js'
 ];
 
 // Call Install Event
