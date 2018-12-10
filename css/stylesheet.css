@@ -138,6 +138,11 @@ body {
     margin-bottom: 30px;
 }
 
+.btn-disabled {
+    color: #919191;
+}
+
+
 .lds-facebook {
   display: inline-block;
   position: relative;
@@ -174,4 +179,5 @@ body {
     height: 26px;
   }
 }
+
 
