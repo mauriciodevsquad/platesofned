@@ -12,6 +12,46 @@ body {
     font-weight: 400
 }
 
+.menu-nav-svg {
+    width: 30px; 
+    margin-bottom: 7px; 
+    margin-left: -30px; 
+    margin-right: 5px;
+}
+
+
+@media only screen and (min-width: 330px) {
+    .main-title {
+        font-size: 45px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .main-title {
+        font-size: 70px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .main-title {
+        font-size: 90px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .main-title {
+        font-size: 110px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .main-title {
+        font-size: 120px;
+    }
+}
+
+
+
 .chapter {
     margin: 20px;
     font-size: 20px;
@@ -107,7 +147,6 @@ body {
 }
 
 .navbar {
-    overflow: hidden;
     background-color: #19AA89;
     position: fixed;
     bottom: 0;
@@ -115,6 +154,7 @@ body {
     font-family: sans-serif;
     line-height: 26px;
     letter-spacing: 0.6px;
+    z-index: 1000;
 }
 
 .navbar a {
