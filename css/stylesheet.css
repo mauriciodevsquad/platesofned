@@ -14,9 +14,13 @@ body {
 
 .menu-nav-svg {
     width: 30px; 
-    margin-bottom: 7px; 
-    margin-left: -30px; 
-    margin-right: 5px;
+/*    margin-bottom: 7px; */
+/*    margin-left: -30px; */
+    margin-right: 15px;
+}
+
+.menu-nav-item {
+    color: #000; 
 }
 
 
